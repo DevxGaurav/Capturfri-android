@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Capturfri</string>
+    <string name="addposttxt">Going out somewhere and don\'t know  how you are looking?</string>
+    <string name="addposttxt2">Upload your picture, video or go live and get instant updates</string>
+    <string name="boy">Boy</string>
+    <string name="bornon">Born on</string>
+    <string name="cancel">Cancel</string>
+    <string name="dob">DOB</string>
+    <string name="forgotpass">Forgot Password?</string>
+    <string name="fullname">Full name</string>
+    <string name="girl">Girl</string>
+    <string name="golive">Go Live</string>
+    <string name="gender">Gender</string>
+    <string name="golivechk">Tap on golive to start live streaming</string>
+    <string name="im">I\'m </string>
+    <string name="ima">I\'m a</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="picture">Picture</string>
+    <string name="profilesetup">Profile setup</string>
+    <string name="signup">Signup</string>
+    <string name="save">Save</string>
+    <string name="username">Username</string>
+    <string name="video">Video</string>
+
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_add">Add</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
